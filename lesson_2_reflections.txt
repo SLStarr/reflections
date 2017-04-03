@@ -13,8 +13,12 @@ making for less clutter in version control.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Park changed files there to decide if and when to commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Experimentation or whole new versions of a program.
 
 How do the diagrams help you visualize the branch structure?
 
