@@ -22,6 +22,8 @@ Experimentation or whole new versions of a program.
 
 How do the diagrams help you visualize the branch structure?
 
+Having them laid out in visual format helps to comprehend the structure as to how commits relate to each other.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
