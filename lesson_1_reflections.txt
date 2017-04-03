@@ -19,3 +19,5 @@ Log shows you the different commits with a message, comparing commits with diff 
 Having version control would give you a lot of confidence knowing you could immediately revert to a functioning version if changes made broke the program.
 
 This is interesting, much of this stuff is quite abstract and taxing. I am enjoying the process of learning however!
+
+Adding this as a test to push to github.
