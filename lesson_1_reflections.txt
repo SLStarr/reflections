@@ -1,0 +1,21 @@
+Reflections on lesson one.
+
+Finding differences between two version of the same file manually is tedious and difficult, even in a relatively small file. Finding differences in a file of a thousand lines could be quite problematic! Using the diff program removed all extraneous data, showing only the true differences with very little effort.
+
+Git version control will be very useful.
+
+Having access to all previous versions of a file could save substantial amounts of time in reverting to previous functionality or debugging programs where new versions have introduced problems. Reflecting on prior coding styles would certainly help to review previous problem solving and coding styles, helping to develop sharper understanding of progress and achievement.
+
+Pros/cons of man save on version control?
+
+Pros are the choice of sensible version management. Con is this opens for human error. Since this is coding however, having auto save may make for senseless, non functional versions
+
+Why git commit multi file? Why not google docs?
+
+Git version control keeps versions of files that tend to be highly interrelated. Google docs docs are likely to be less interdependent.
+
+Log shows you the different commits with a message, comparing commits with diff helps to find any changes to the file between commits.
+
+Having version control would give you a lot of confidence knowing you could immediately revert to a functioning version if changes made broke the program.
+
+This is interesting, much of this stuff is quite abstract and taxing. I am enjoying the process of learning however!
